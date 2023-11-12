@@ -44,7 +44,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Add Bot",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://wa.me/19096108238",
+      href: "https://wa.me/13235463246",
     },
        {
       link: true,
